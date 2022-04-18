@@ -6,3 +6,6 @@ The demo is here: https://pureblackkk.github.io/fft-image-visualization/
 
 You can **upload image** and test different **filters**. Examples are shown in below.
 ![example1](/example1.png)
+![example2](/example2.png)
+
+Note that the image uploaded is croped to fit the FFT method and scaled for display, leading to some deviation to a certain extent. 
