@@ -1,4 +1,4 @@
-# fft-image-viusalization
+# fft-image-visualization
 
 This is the project for visualize the fast Fourier transform (FFT) on image. Discrete Fourier transform (DFT) is also implemented by utilizing multiple workers threads, and, obviously, it's much slower than FFT, thus being not showed in demo.
 
