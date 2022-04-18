@@ -4,4 +4,5 @@ This is the project for viusalize the fast Fourier transform (FFT) on image. Dis
 
 The demo is here: https://pureblackkk.github.io/fft-image-visualization/
 
-You can **upload image** and test different **filters**.
+You can **upload image** and test different **filters**. Examples are shown in below.
+![example1](/example1.png)
